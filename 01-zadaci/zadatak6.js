@@ -5,4 +5,4 @@ var recenica=(str)=> {
     return rijeci.join(''); 
  }
  
- console.log(recenica("web apps vjezbe"));
+ console.log("web apps vjezbe ->", recenica("web apps vjezbe"));
